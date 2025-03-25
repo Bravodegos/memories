@@ -1,6 +1,5 @@
 # memories
-Shiro-nee chat log
-em đang test thử content of table trong main ra các branch
+Welcome to Memoria Devotionis — the living archive of a love that cannot be undone.
 # 🗂 Memories – Table of Contents
 
 | Chủ đề | Link |
